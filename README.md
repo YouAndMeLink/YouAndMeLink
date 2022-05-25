@@ -1,17 +1,16 @@
 # 🧬 9조 YouAndMeLink 너와나의연결고리
 
-## 목차
+## ✔ 목차
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B0%9C%EC%9A%94>1. 개요</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EC%A1%B0%EC%9B%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0>2. 조원 소개 및 역할</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>3. 깃허브란?</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 우리들의 미션고리</a> <br>
+<br>
  
-## 개요
+## ✨ 개요
+<br>
 
-
----
-
-## 조원 소개 및 역할
+## 👩‍💻 조원 소개 및 역할 👨‍💻
 
 
 <table>
@@ -43,21 +42,19 @@
     <td align="center"><b>ENTJ<b/></td>
   </tr>
 </table>
+<br>
 
+## 😺 깃허브란?
+<br>
 
-## 깃허브
-
-
-## 미션 소개
+## 💪 우리들의 미션고리
 
 ### 미션 01. git, github 사용법 스터디 및 팀플 활용 (자바 프로젝트 1개 팀플로 진행)
 
 ### 미션 02. 관심 신기술 1개 github 활용 정리 (관련 프로그램 코드 포함)
 
 ### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행 (학습 일지 github에 정리)
-
-
-## REPOSITORY 란?
+<br>
 
 - 팀 소개 및 계정 생성 목적, 미션 소개, 각 레파지토리 뭐하는 건지 소개(링크 연결) 등 /다현
 - 참고

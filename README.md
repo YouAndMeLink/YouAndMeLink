@@ -13,39 +13,33 @@
 
 <table>
   <tr> 
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/SM><img src="https://avatars.githubusercontent.com/u/103156290?v=4" width="100px;" alt=""/><br /><sub><b>진솔미</b></sub></a><br />
+    </td>
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/BG><img src="https://avatars.githubusercontent.com/u/86152185?v=4" width="100px;" alt=""/><br /><sub><b>강병관</b></sub></a><br />
     </td>
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/DH><img src="https://avatars.githubusercontent.com/u/74331917?v=4" width="100px;" alt=""/><br /><sub><b>김다현</b></sub></a><br />
     </td>
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/KY><img src="https://avatars.githubusercontent.com/u/103173521?v=4" width="100px;" alt=""/><br /><sub><b>문기용</b></sub></a><br />
     </td>
-    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/SM><img src="https://avatars.githubusercontent.com/u/103156290?v=4" width="100px;" alt=""/><br /><sub><b>진솔미</b></sub></a><br />
-    </td>
         </td>
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/WJ><img src="https://avatars.githubusercontent.com/u/103166677?v=4" width="100px;" alt=""/><br /><sub><b>이원진</b></sub></a><br />
     </td>
   </tr>
   <tr>
-  <td align="center">신기술</td>
-  <td align="center">깃허브</td>
-  <td align="center">알고리즘</td>
-  <td align="center">조장</td>
-  <td align="center">프로젝트</td>
+    <td align="center">조장</td>
+    <td align="center">신기술</td>
+    <td align="center">깃허브</td>
+    <td align="center">알고리즘</td>
+    <td align="center">프로젝트</td>
   </tr>
   <tr>
-  <td align="center">ISTP</td>
-  <td align="center">ISFJ</td>
-  <td align="center">ISFJ</td>
-  <td align="center">INFP</td>
-  <td align="center">ENTJ</td>
+    <td align="center"><b>INFP<b/></td>
+    <td align="center"><b>ISTP</b></td>
+    <td align="center"><b>ISFJ<b/></td>
+    <td align="center"><b>ISFJ<b/></td>
+    <td align="center"><b>ENTJ<b/></td>
   </tr>
 </table>
-
-- 조장 진솔미 INFP
-- 알고리즘 문기용 isfj
-- 프로젝트 이원진 ENTJ
-- 신기술 병관 ISTP
-- 깃허브 다현 isfj
 
 ---
 

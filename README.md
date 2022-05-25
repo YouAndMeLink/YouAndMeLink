@@ -10,6 +10,23 @@
 
 ### 1. 조원 소개 및 역할
 
+
+<table>
+  <tr> 
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/BG><img src="https://avatars.githubusercontent.com/u/86152185?v=4" width="100px;" alt=""/><br /><sub><b>강병관</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/DH><img src="https://avatars.githubusercontent.com/u/74331917?v=4" width="100px;" alt=""/><br /><sub><b>김다현</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/KY><img src="https://avatars.githubusercontent.com/u/103173521?v=4" width="100px;" alt=""/><br /><sub><b>문기용</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/SM><img src="https://avatars.githubusercontent.com/u/103156290?v=4" width="100px;" alt=""/><br /><sub><b>진솔미</b></sub></a><br />
+    </td>
+        </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/WJ><img src="https://avatars.githubusercontent.com/u/103166677?v=4" width="100px;" alt=""/><br /><sub><b>이원진</b></sub></a><br />
+    </td>
+  </tr>
+</table>
+
 - 조장 진솔미 INFP
 - 알고리즘 문기용 isfj
 - 프로젝트 이원진 ENTJ

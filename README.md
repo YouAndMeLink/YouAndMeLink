@@ -1,4 +1,4 @@
-# 🧬YouAndMeLink 9조 너와나의연결고리
+# 🧬 9조 YouAndMeLink 너와나의연결고리
 
 ### 개요
 1. 조원 소개

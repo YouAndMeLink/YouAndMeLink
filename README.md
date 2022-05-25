@@ -8,12 +8,29 @@
 
 ---
 
-### 1. 조원 소개 및 역할
+## 1. 조원 소개 및 역할
 
 
 <table>
   <tr> 
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/BG><img src="https://avatars.githubusercontent.com/u/86152185?v=4" width="100px;" alt=""/><br /><sub><b>강병관</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/DH><img src="https://avatars.githubusercontent.com/u/74331917?v=4" width="100px;" alt=""/><br /><sub><b>김다현</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/KY><img src="https://avatars.githubusercontent.com/u/103173521?v=4" width="100px;" alt=""/><br /><sub><b>문기용</b></sub></a><br />
+    </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/SM><img src="https://avatars.githubusercontent.com/u/103156290?v=4" width="100px;" alt=""/><br /><sub><b>진솔미</b></sub></a><br />
+    </td>
+        </td>
+    <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/WJ><img src="https://avatars.githubusercontent.com/u/103166677?v=4" width="100px;" alt=""/><br /><sub><b>이원진</b></sub></a><br />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr> 
+    <td align="center">
+      <b>강병관</b><br />
     </td>
     <td align="center"><a href=https://github.com/YouAndMeLink/Algorithm-Study/tree/DH><img src="https://avatars.githubusercontent.com/u/74331917?v=4" width="100px;" alt=""/><br /><sub><b>김다현</b></sub></a><br />
     </td>
@@ -35,14 +52,17 @@
 
 ---
 
+## 2. 깃허브 생성 목적 및 활용
 
 ---
 
-## 미션 01. git, github 사용법 스터디 및 팀플 활용 (자바 프로젝트 1개 팀플로 진행)
+## 3. 미션 소개
 
-## 미션 02. 관심 신기술 1개 github 활용 정리 (관련 프로그램 코드 포함)
+### 미션 01. git, github 사용법 스터디 및 팀플 활용 (자바 프로젝트 1개 팀플로 진행)
 
-## 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행 (학습 일지 github에 정리)
+### 미션 02. 관심 신기술 1개 github 활용 정리 (관련 프로그램 코드 포함)
+
+### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행 (학습 일지 github에 정리)
 
 
 - 팀 소개 및 계정 생성 목적, 미션 소개, 각 레파지토리 뭐하는 건지 소개(링크 연결) 등 /다현

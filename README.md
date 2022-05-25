@@ -26,18 +26,18 @@
     </td>
   </tr>
   <tr>
-  <td>신기술</td>
-  <td>깃허브</td>
-  <td>알고리즘</td>
-  <td>조장</td>
-  <td>프로젝트</td>
+  <td align="center">신기술</td>
+  <td align="center">깃허브</td>
+  <td align="center">알고리즘</td>
+  <td align="center">조장</td>
+  <td align="center">프로젝트</td>
   </tr>
   <tr>
-  <td>ISTP</td>
-  <td>ISFJ</td>
-  <td>ISFJ</td>
-  <td>INFP</td>
-  <td>ENTJ</td>
+  <td align="center">ISTP</td>
+  <td align="center">ISFJ</td>
+  <td align="center">ISFJ</td>
+  <td align="center">INFP</td>
+  <td align="center">ENTJ</td>
   </tr>
 </table>
 

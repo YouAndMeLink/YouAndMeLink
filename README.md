@@ -1,10 +1,12 @@
-# 🧬YouAndMeLink
+# 🧬YouAndMeLink 9조 너와나의연결고리
 
 ---
 
-*깃허브 소개글(md 파일)
-
-9조 너와나의연결고리
+### 개요
+1. TEAM MEMBER
+2. 생성 목적
+3. Mission
+4. 레파지토리
 
 ## 미션 01. git, github 사용법 스터디 및 팀플 활용 (자바 프로젝트 1개 팀플로 진행)
 

@@ -124,14 +124,15 @@ ___
  
 ```
  
- 1) `cd 폴더 경로`
- 2) `git init`
- 3) `git remote add origin 원격 저장소 주소`
+ > 1) `cd 폴더 경로`
+ > 해당 폴더로 이동
+ > 2) `git init`
+ > project를 git의 repository로 만들기 위한 명령어
+ > 3) `git remote add origin 원격 저장소 주소`
+ > 원격 저장소 관리하는 명령어
+ > `git remote -v` 명령어를 통해 현재 원격 저장소가 무엇인지 확인 가능
  
- 
-- 팀 소개 및 계정 생성 목적, 미션 소개, 각 레파지토리 뭐하는 건지 소개(링크 연결) 등 /다현
-- 참고
-https://github.com/woowacourse-study/2022-back-end-code-review-study/blob/main/%5BMission2%5D%20%EB%A1%9C%EB%98%90%20%EB%AF%B8%EC%85%98/%5B%EB%A1%9C%EB%98%90%20%EB%AF%B8%EC%85%98%5D%20%EB%A0%89%EC%8A%A4%20%EC%B5%9C%EC%A2%85%20%EB%A6%AC%EB%B7%B0%20%EC%A0%95%EB%A6%AC.md
-
-https://github.com/Hannah0su/YJU_Interim_Report
+___
+#### `git clone 저장소 주소`
+> github의 repository를 서버의 프로젝트를 그대로 내려받는 명령어 
 

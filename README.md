@@ -4,7 +4,7 @@
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B0%9C%EC%9A%94>1. 개요</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EC%A1%B0%EC%9B%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0>2. 조원 소개 및 역할</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>3. 우리들의 미션고리</a> <br>
-<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 깃허브란?</a> <br>
+<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 깃, 깃허브란?</a> <br>
  
 ## ✨ 개요
 <br>
@@ -56,7 +56,7 @@
 ### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행 (학습 일지 github에 정리)
 <br>
 
-## 😺 깃허브란?
+## 😺 깃, 깃허브란?
 
 <img src="https://user-images.githubusercontent.com/74331917/171541937-d017e1ca-fb2d-47a4-b0d1-0edfd4c3323d.png">
 
@@ -121,7 +121,6 @@ ___
 ```sh
  git config --global user.name "사용자 이름"
  git config --global user.email "사용자 이메일"
- 
 ```
  
  > 1) `cd 폴더 경로`

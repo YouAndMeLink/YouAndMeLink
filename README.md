@@ -1,10 +1,10 @@
 # 🧬 9조 YouAndMeLink 너와나의연결고리
 
 ## ✔ 목차
-<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B0%9C%EC%9A%94>1. 개요</a> <br>
-<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EC%A1%B0%EC%9B%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0>2. 조원 소개 및 역할</a> <br>
-<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>3. 우리들의 미션고리</a> <br>
-<a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 깃, 깃허브란?</a> <br>
+<a href=https://github.com/YouAndMeLink/YouAndMeLink#-%EA%B0%9C%EC%9A%94>1. 개요</a> <br>
+<a href=https://github.com/YouAndMeLink/YouAndMeLink#-%EC%A1%B0%EC%9B%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0->2. 조원 소개 및 역할</a> <br>
+<a href=https://github.com/YouAndMeLink/YouAndMeLink#-%EC%A1%B0%EC%9B%90-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%97%AD%ED%95%A0->3. 우리들의 미션고리</a> <br>
+<a href=https://github.com/YouAndMeLink/YouAndMeLink#-%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C%EB%9E%80>4. 깃, 깃허브란?</a> <br>
  
 <br>
  

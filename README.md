@@ -7,9 +7,8 @@
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 깃, 깃허브란?</a> <br>
  
 ## ✨ 개요
-<br>
-
-- 너와나의연결고리는 서로 간의 팀워크가 연결되어 있다는 의미로 슬로건은 <b>JUST DO IT!</b>입니다! 모두 다함께 <b>JUST DO IT</b>을 외쳐보아요🔥
+> 현재 이 공간은 우리 팀에 대한 소개글 입니다!<br>
+> 너와나의연결고리는 서로 간의 팀워크가 연결되어 있다는 의미로 슬로건은 <b>JUST DO IT!</b>입니다! 모두 다함께 <b>JUST DO IT</b>을 외쳐보아요🔥
 
 <br>
 
@@ -51,23 +50,30 @@
 
 ## 💪 우리들의 미션고리
 
-### 미션 01. git, github 사용법 스터디 및 팀플 활용
+### ✨MISSION 01
+> #### git, github 사용법 스터디 및 팀플 활용
+
+*🎇자바프로젝트 : 키오스크를 주제로 한 프로젝트입니다.*
+*🎇깃, 깃허브 : 각자 깃과 깃허브에 관한 내용들을 스터디하여 요약한 것들을 정리한 공간입니다.*
 
 | 자바 프로젝트 | https://github.com/YouAndMeLink/Project_movie-theater-kiosk |
 | --- | --- |
 | 깃 깃허브 스터디 | https://github.com/YouAndMeLink/WD2A_Study/tree/main/git_github |
 
-### 미션 02. 관심 신기술 1개 github 활용 정리
+### ✨MISSION 02
+> #### 관심 신기술 1개 github 활용 정리
 
-| NFT |
-| --- |
-| https://github.com/YouAndMeLink/About_NFT |
+*🤔NFT에 대한 내용이 궁금하다면?* **아래 링크 클릭!**
 
-### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행
+| NFT | https://github.com/YouAndMeLink/About_NFT |
+| --- | --- |
 
-| 알고리즘 |
-| --- |
-| https://github.com/YouAndMeLink/Algorithm-Study |
+### ✨MISSION 03
+> #### 알고리즘 학습 사이트 조사 및 선택 후 학습 진행
+*😎백준사이트를 활용한 스터디 공간!*
+
+| 알고리즘 | https://github.com/YouAndMeLink/Algorithm-Study |
+| --- | --- |
 
 <br>
 
@@ -101,7 +107,7 @@
 
 그 중 제일 중요한 것이 `협업` 이다.
 
-#### 깃의장점
+#### 깃의 장점
 - 깃은 모든 파일에 대한 변경사항을 기록하므로 파일의 "버전 관리"에 아주 용이<br>
 > **즉, 파일의 내용, 어디서, 어떻게, 몇 번, 어떤 사용자에 의한 것 인지에 대한 모든 변경 사항을 기록(병렬개발)**
  

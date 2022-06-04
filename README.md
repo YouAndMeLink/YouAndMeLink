@@ -40,7 +40,7 @@
   <tr>
     <td align="center"><b>INFP<b/></td>
     <td align="center"><b>ISTP</b></td>
-    <td align="center"><b>ISFJ<b/></td>
+    <td align="center"><b>ISTJ<b/></td>
     <td align="center"><b>ISFJ<b/></td>
     <td align="center"><b>ENTJ<b/></td>
   </tr>

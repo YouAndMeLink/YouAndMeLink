@@ -14,7 +14,7 @@
 <br>
 
 ## 👩‍💻 조원 소개 및 역할 👨‍💻
-
+> 우리 팀원들의 개인 깃허브 공간입니다! 언제든지 환영~😘
 
 <table>
   <tr> 
@@ -45,6 +45,8 @@
     <td align="center"><b>ENTJ<b/></td>
   </tr>
 </table>
+
+
 <br>
 
 ## 💪 우리들의 미션고리
@@ -57,13 +59,13 @@
 
 ### 미션 02. 관심 신기술 1개 github 활용 정리
 
-| 레파지토리 주소 |
+| NFT |
 | --- |
 | https://github.com/YouAndMeLink/About_NFT |
 
 ### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행
 
-| 레파지토리 주소 |
+| 알고리즘 |
 | --- |
 | https://github.com/YouAndMeLink/Algorithm-Study |
 

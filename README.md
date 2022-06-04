@@ -51,9 +51,9 @@
 
 ### 미션 01. git, github 사용법 스터디 및 팀플 활용
 
-| 레파지토리 주소  |
-| --- |
-| https://github.com/YouAndMeLink/Project_movie-theater-kiosk |
+| 자바 프로젝트 | https://github.com/YouAndMeLink/Project_movie-theater-kiosk |
+| --- | --- |
+| 깃 깃허브 스터디 | https://github.com/YouAndMeLink/WD2A_Study/tree/main/git_github |
 
 ### 미션 02. 관심 신기술 1개 github 활용 정리
 

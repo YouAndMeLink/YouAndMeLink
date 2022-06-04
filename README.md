@@ -6,9 +6,12 @@
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>3. 우리들의 미션고리</a> <br>
 <a href=https://github.com/YouAndMeLink/YouAndMeLink#%EA%B9%83%ED%97%88%EB%B8%8C>4. 깃, 깃허브란?</a> <br>
  
+<br>
+ 
 ## ✨ 개요
 > 현재 이 공간은 우리 팀에 대한 소개글 입니다!<br>
-> 너와나의연결고리는 서로 간의 팀워크가 연결되어 있다는 의미로 슬로건은 <b>JUST DO IT!</b>입니다! 모두 다함께 <b>JUST DO IT</b>을 외쳐보아요🔥
+> _너와 나의 연결고리_ 는 서로 간의 팀워크가 연결되어 있다는 의미로 슬로건은 <b>JUST DO IT!</b> 이에요!<br>
+> 모두 다함께 ***JUST DO IT***을 외쳐보아요🔥
 
 <br>
 
@@ -45,7 +48,6 @@
   </tr>
 </table>
 
-
 <br>
 
 ## 💪 우리들의 미션고리
@@ -53,7 +55,7 @@
 ### ✨MISSION 01
 > #### git, github 사용법 스터디 및 팀플 활용
 
-*🎇자바프로젝트 : 키오스크를 주제로 한 프로젝트입니다.*
+*🎇자바프로젝트 : 키오스크를 주제로 한 프로젝트입니다.* <br>
 *🎇깃, 깃허브 : 각자 깃과 깃허브에 관한 내용들을 스터디하여 요약한 것들을 정리한 공간입니다.*
 
 | 자바 프로젝트 | https://github.com/YouAndMeLink/Project_movie-theater-kiosk |

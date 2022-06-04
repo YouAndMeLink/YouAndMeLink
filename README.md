@@ -51,6 +51,10 @@
 
 ### 미션 01. git, github 사용법 스터디 및 팀플 활용
 
+| 레파지토리 주소  |
+| --- |
+| https://github.com/YouAndMeLink/Project_movie-theater-kiosk |
+
 ### 미션 02. 관심 신기술 1개 github 활용 정리
 
 ### 미션 03. 알고리즘 학습 사이트 조사 및 선택 후 학습 진행
